@@ -1,0 +1,22 @@
+# PyInstaller 构建产物
+build/
+dist/
+*.spec.bak
+
+# Python 缓存
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+
+# 运行时生成的设置与日志（robocon_paths.output_dir() 写入）
+robocon_settings.json
+*.log
+
+# IDE / 编辑器个人配置
+.idea/
+.vscode/
+*.swp
+.DS_Store
+Thumbs.db

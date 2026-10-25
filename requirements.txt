@@ -1,0 +1,5 @@
+# 女娲补天 竞技赛 · 手动操作模拟器（Robocon 2027）
+# 运行依赖：仅需要 PyQt5。其余（json/os/dataclasses/typing 等）均为 Python 标准库。
+# 建议 Python 3.8+
+
+PyQt5>=5.15
